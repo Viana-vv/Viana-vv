@@ -35,7 +35,7 @@ Meus contatos:
 <a href="https://www.instagram.com/eeai.viana/?utm_source=qr&igsh=MXZhNHY0MHFwdG9vZQ%3D%3D#" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "https://mail.google.com/mail/u/0/?fs=1&to=andrevinicios2008@gmail.com&su=Assunto&body=Ol%C3%A1+Andr%C3%A9!&tf=cm"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/andr%C3%A9-viniciosvian4/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href="https://wa.me/11945931935" target="_blank">
+  <a href="https://wa.me/111945931935" target="_blank">
   <img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
 </a>
   <div>
