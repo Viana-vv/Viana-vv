@@ -42,7 +42,7 @@ Concluí o ensino técnico e sigo aprimorando minha base para ingressar no ensin
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viana-vv&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viana-vv&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=1800"
   />
 </p>
 
