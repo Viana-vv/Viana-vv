@@ -10,27 +10,15 @@
 
 ---
 
-<h2 align="center">🚀 O que você encontra aqui</h2>
-<p align="center">
-Este perfil reúne meus projetos, experimentos e estudos práticos em desenvolvimento de software.<br>
-Cada repositório representa aprendizado aplicado e evolução contínua.
-</p>
+<h2 align="center">🧩 Tecnologias</h2>
 
----
-
-<h2 align="center">🧩 Tecnologias que utilizo</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="48"/>
-</p>
-
-<h3 align="center">📘 Atualmente estudando</h3>
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48"/>
-             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48"/>
- 
 </p>
 
 ---
@@ -44,7 +32,23 @@ Concluí o ensino técnico e sigo aprimorando minha base para ingressar no ensin
 
 ---
 
-<h2 align="center">🌐 Vamos conversar</h2>
+<h2 align="center">📊 Estatísticas</h2>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Viana-vv&theme=dark&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viana-vv&layout=compact&theme=dark&hide_border=true"
+  />
+</p>
+
+---
+
+<h2 align="center">🌐 Contato</h2>
 <p align="center">
   <a href="https://www.instagram.com/eeai.viana/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -58,10 +62,4 @@ Concluí o ensino técnico e sigo aprimorando minha base para ingressar no ensin
   <a href="https://wa.me/11945931935" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Viana-vv&theme=dark&hide_border=true"/>
 </p>
