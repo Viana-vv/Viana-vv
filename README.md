@@ -40,22 +40,6 @@ Concluí o ensino técnico e sigo aprimorando minha base para ingressar no ensin
 
 ---
 
-<h2 align="center">📊 Estatísticas</h2>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Viana-vv&theme=dark&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-main-rickstaa.vercel.app/api/top-langs/?username=Viana-vv&layout=compact&theme=dark&hide_border=true"
-  />
-</p>
-
----
-
 <h2 align="center">🌐 Contato</h2>
 <p align="center">
   <a href="https://www.instagram.com/eeai.viana/" target="_blank">
