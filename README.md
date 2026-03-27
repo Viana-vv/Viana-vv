@@ -13,6 +13,7 @@
 <h2 align="center">🧩 Tecnologias que utilizo</h2>
 
 <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="48"/>
@@ -25,8 +26,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48"/>
- 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="48" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 <p align="center">
 Meu foco é desenvolvimento <strong>back-end</strong>, com interesse em lógica de programação,<br>
 bancos de dados e arquitetura de sistemas.<br>
-Concluí o ensino técnico e sigo aprimorando minha base para ingressar no ensino superior em 2026.
+Estudando na faculdade Impacta Tecnologia 
 </p>
 
 ---
