@@ -55,3 +55,5 @@ Estudando na faculdade Impacta Tecnologia
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Viana-vv&theme=github-dark)
