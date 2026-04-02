@@ -57,5 +57,4 @@ Estudando na faculdade Impacta Tecnologia
 </p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Viana-vv&theme=github-dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viana-vv&show_icons=true)
+![Top Language](https://img.shields.io/github/languages/top/Viana-vv/Viana-vv)
