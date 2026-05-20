@@ -56,5 +56,3 @@ Estudando na faculdade Impacta Tecnologia
   </a>
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Viana-vv&theme=github-dark)
-
