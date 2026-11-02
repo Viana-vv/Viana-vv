@@ -40,11 +40,6 @@ Estudando na faculdade Impacta Tecnologia
 
 
 
-![Minhas linguagens de programação](https://raw.githubusercontent.com/Viana-vv/github-language-checker/main/languages.svg)
-
-
----
-
 <h2 align="center">🌐 Contato</h2>
 <p align="center">
   <a href="https://www.instagram.com/eeai.viana/" target="_blank">
