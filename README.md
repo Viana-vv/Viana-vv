@@ -25,7 +25,6 @@
 <h2 align="center">📘 Tecnologias em estudo</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="48" />
 </p>
 
